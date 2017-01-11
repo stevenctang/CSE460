@@ -1,0 +1,20 @@
+Script started on Tue Jan 10 18:18:23 2017
+[?1034hbash-3.2$ make[K[K[K[Kmake
+g++ -c main.cpp
+g++ -c message.cpp
+g++ -o message message.o main.o
+bash-3.2$ l[Kls
+cd_example.png    main.cpp          message.cpp       rm_example.png
+cp_example.png    main.o            message.o         typescript
+function.h        makefile          mkdir_example.png vi_example.png
+ls_example.png    [31mmessage[39;49m[0m           mv_example.png
+bash-3.2$ ./message
+CSUSB CSE 460 the Beautiful!
+
+CSUSB CSE 460 the Beautiful!
+bash-3.2$ make clean
+rm message message.o main.o
+bash-3.2$ scr[K[K[Kexit
+exit
+
+Script done on Tue Jan 10 18:18:58 2017
