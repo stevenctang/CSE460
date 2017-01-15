@@ -1,0 +1,1 @@
+for pid in $(ps -e -f | grep $robot | grep -v grep | grep -v $0 |awk '{print $2}')
