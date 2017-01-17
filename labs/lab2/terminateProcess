@@ -1,4 +1,3 @@
-if(pid)
 ps | pgrep robot | pkill robot
-//for pid in $(ps -e -f | grep $robot | grep -v grep | grep -v $0 |awk '{print $2}')
+//for pid in $(ps -e -f | grep $1 | grep $1 | grep pkill robot |awk '{print $2}')
 
