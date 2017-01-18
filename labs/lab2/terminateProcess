@@ -1,1 +1,8 @@
-pkill $1 | ps -f
+rocess=$(pgrep $1)
+if [ "$process" == "" ]
+then
+	echo "No such task exists"
+else
+	kill $process
+	
+fi
