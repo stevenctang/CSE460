@@ -1,8 +1,7 @@
-rocess=$(pgrep $1)
+process=$(pgrep $1)
 if [ "$process" == "" ]
 then
 	echo "No such task exists"
 else
 	kill $process
-	
 fi

@@ -1,0 +1,23 @@
+Script started on Wed Jan 18 23:49:49 2017
+[?1034hbash-3.2$ ./robot &
+[1] 1616
+bash-3.2$ ./robot &
+[2] 1617
+bash-3.2$ ./robot &
+[3] 1618
+bash-3.2$ ./robot &
+[4] 1619
+bash-3.2$ ./T[KterminateProcess &[Krobot
+[2]   Terminated: 15          ./robot
+[4]+  Terminated: 15          ./robot
+[1]-  Terminated: 15          ./robot
+[3]+  Terminated: 15          ./robot
+bash-3.2$ ps
+  PID TTY           TIME CMD
+ 1353 ttys000    0:00.16 -bash
+ 1614 ttys000    0:00.01 script
+ 1615 ttys001    0:00.01 /bin/bash -i
+bash-3.2$ ei[Kxit
+exit
+
+Script done on Wed Jan 18 23:50:10 2017
