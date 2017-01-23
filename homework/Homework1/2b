@@ -1,0 +1,19 @@
+Script started on Sun Jan 22 13:41:25 2017
+[?1034hbash-3.2$ c++ 2b.cpp
+bash-3.2$ ./a.out
+
+			Parent id is: 6347
+This is a child process: 6349, and the parent ID is: 6347
+This is a child process: 6350, and the parent ID is: 6347
+This is a child process: 6351, and the parent ID is: 6347
+This is a child process: 6352, and the parent ID is: 6347
+This is a child process: 6353, and the parent ID is: 6347
+This is a child process: 6354, and the parent ID is: 6347
+This is a child process: 6355, and the parent ID is: 6347
+This is a child process: 6356, and the parent ID is: 6347
+This is a child process: 6357, and the parent ID is: 6347
+This is a child process: 6358, and the parent ID is: 6347
+bash-3.2$ exit
+exit
+
+Script done on Sun Jan 22 13:41:33 2017

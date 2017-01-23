@@ -1,0 +1,15 @@
+#
+#testProcess
+#This script will find if the user's program is running
+#If it's runnning the script will kill the program, if not then the program
+#will print out that their process is not running.
+#
+process=$(pgrep $1)
+
+if [ "$process" == "" ]
+then
+	echo "Process $1 not running!"
+else
+	pkill $1
+	echo "Process $1 killed!"
+fi

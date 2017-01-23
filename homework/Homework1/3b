@@ -1,0 +1,20 @@
+Script started on Sun Jan 22 12:36:15 2017
+[?1034hbash-3.2$ p[Kls
+2a.cpp      3b          [31mtest1[39;49m[0m       [31mtestProcess[39;49m[0m
+2b.cpp      [31ma.out[39;49m[0m       test1.cpp
+bash-3.2$ ./test1 &
+[1] 2327
+bash-3.2$ ./testProcess test1
+Process test1 killed!
+[1]+  Terminated: 15          ./test1
+bash-3.2$ ps
+  PID TTY           TIME CMD
+ 1428 ttys000    0:00.57 -bash
+ 2324 ttys000    0:00.01 script 3b
+ 2325 ttys001    0:00.01 /bin/bash -i
+bash-3.2$ ps./testProcess test1[C[C[C[C[C[C[C[C[C[Cps[K./testProcess test1
+Process test1 not running!
+bash-3.2$ exit
+exit
+
+Script done on Sun Jan 22 12:36:38 2017

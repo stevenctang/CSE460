@@ -1,0 +1,18 @@
+Script started on Sun Jan 22 13:40:19 2017
+[?1034hbash-3.2$ c++ 2a.cpp
+bash-3.2$ ./a.out
+
+This is a child with ID: 6260. My parent ID is: 6259
+This is a child with ID: 6261. My parent ID is: 6260
+This is a child with ID: 6262. My parent ID is: 6261
+This is a child with ID: 6263. My parent ID is: 6262
+This is a child with ID: 6264. My parent ID is: 6263
+This is a child with ID: 6265. My parent ID is: 6264
+This is a child with ID: 6266. My parent ID is: 6265
+This is a child with ID: 6267. My parent ID is: 6266
+This is a child with ID: 6268. My parent ID is: 6267
+This is a child with ID: 6269. My parent ID is: 6268
+bash-3.2$ exit
+exit
+
+Script done on Sun Jan 22 13:40:25 2017
