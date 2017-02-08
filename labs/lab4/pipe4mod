@@ -1,0 +1,12 @@
+Script started on Thu Feb  2 17:14:11 2017
+[?1034hbash-3.2$ g++ -o pipe4 pipe4.cpp
+bash-3.2$ g++ -o pipe5 pipe5.cpp
+bash-3.2$ ./pipe 4[K[K4
+Enter message: 
+TACOS
+1628 - wrote 3 bytes
+bash-3.2$ 1631 - read 3 bytes: €o
+exit
+exit
+
+Script done on Thu Feb  2 17:14:46 2017

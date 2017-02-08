@@ -1,0 +1,12 @@
+Script started on Thu Feb  2 17:44:18 2017
+[?1034hbash-3.2$ c++ pipe2.cpp
+bash-3.2$ ./a.out
+0000000    A   r   n   o   d       s   a   i   d   ,       '   I   f    
+0000020    I       a   m       e   l   e   c   t   e   d   ,       .   .
+0000040    '   ,       a   n   d       t   h   e       f   a   i   r   y
+0000060        t   a   l   e       b   e   g   i   n   s  \n            
+0000075
+bash-3.2$ exit
+exit
+
+Script done on Thu Feb  2 17:44:25 2017

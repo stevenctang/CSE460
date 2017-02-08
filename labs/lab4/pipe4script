@@ -1,0 +1,10 @@
+Script started on Thu Feb  2 17:04:28 2017
+[?1034hbash-3.2$ g++ -o pipe4 pipe4.cpp
+bash-3.2$ g++ -o pipe5 pipe5.cpp
+bash-3.2$ ./pipe4
+1563 - wrote 3 bytes
+bash-3.2$ 1564 - read 3 bytes: 123
+exit
+exit
+
+Script done on Thu Feb  2 17:04:50 2017

@@ -1,0 +1,51 @@
+Script started on Thu Feb  2 18:59:57 2017
+[?1034hbash-3.2$ ./client
+Script started, output file is started
+Script: on: No such file or directory
+
+Script done, output file is started
+bash-3.2$ ls
+[31ma.out[39;49m[0m        fifo1.cpp    pipe1a.cpp   pipe2mod.cpp pipe4mod     server.cpp
+[31mclient[39;49m[0m       lab4.docx    pipe1script  pipe3        pipe4script  started
+client.cpp   [31mpipe1[39;49m[0m        pipe2        pipe3.cpp    [31mpipe5[39;49m[0m        started,
+done         pipe1.cpp    pipe2.cpp    [31mpipe4[39;49m[0m        pipe5.cpp    typescript
+done,        [31mpipe1a[39;49m[0m       pipe2mod     pipe4.cpp    [31mserver[39;49m[0m       ~$lab4.docx
+bash-3.2$ ./client
+Script started, output file is started
+Script: on: No such file or directory
+
+Script done, output file is started
+bash-3.2$ ./client.cpp
+bash: ./client.cpp: Permission denied
+bash-3.2$ ./client.cpp[K[K[K[K
+Script started, output file is started
+Script: on: No such file or directory
+
+Script done, output file is started
+./client: line 2: [?1034hbash-3.2$: command not found
+Script started, output file is started,
+Script: output: No such file or directory
+
+Script done, output file is started,
+./client: line 4: Script:: command not found
+./client: line 5: : command not found
+Script started, output file is done,
+Script: output: No such file or directory
+
+Script done, output file is done,
+./client: line 7: bash-3.2$: command not found
+./client: line 8: [31ma.out[39: command not found
+./client: line 8: 49m[0m: command not found
+./client: line 9: [31mclient[39: command not found
+./client: line 9: 49m[0m: command not found
+./client: line 10: client.cpp: command not found
+./client: line 10: 49m[0m: command not found
+./client: line 10: 49m[0m: command not found
+./client: line 11: syntax error near unexpected token `done'
+./client: line 11: `done         pipe1.cpp    pipe2.cpp    [31mpipe4[39;49m[0m        pipe5.cpp    typescript'
+bash-3.2$ 
+bash-3.2$ clear
+[H[2Jbash-3.2$ exit
+exit
+
+Script done on Thu Feb  2 19:01:37 2017

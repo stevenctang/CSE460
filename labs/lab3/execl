@@ -1,0 +1,11 @@
+Script started on Sun Jan 22 22:20:32 2017
+[?1034hbash-3.2$ ls
+[31ma.out[39;49m[0m         execl         test_exec.cpp
+bash-3.2$ c++ test_exec.cpp [K
+bash-3.2$ ./a.out
+Running ps with execlp
+Done!
+bash-3.2$ exit
+exit
+
+Script done on Sun Jan 22 22:20:41 2017

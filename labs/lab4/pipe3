@@ -1,0 +1,9 @@
+Script started on Thu Feb  2 17:01:49 2017
+[?1034hbash-3.2$ c++ pipe3.cpp
+bash-3.2$ /[K./a.out
+Sent 5 bytes to pipe.
+Read 5 from pipe: CSUSB
+bash-3.2$ exit
+exit
+
+Script done on Thu Feb  2 17:01:57 2017

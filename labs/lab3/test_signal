@@ -1,0 +1,44 @@
+Script started on Sun Jan 22 22:30:11 2017
+[?1034hbash-3.2$ ls
+[31ma.out[39;49m[0m           test_exec.cpp   test_signal     test_wait.cpp
+execl           test_fork.cpp   test_signal.cpp
+bash-3.2$ c++ test_signal.cpp
+bash-3.2$ ./a.out
+CSUSB CS 460 lab on signals
+CSUSB CS 460 lab on signals
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+CSUSB CS 460 lab on signals
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+CSUSB CS 460 lab on signals
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+CSUSB CS 460 lab on signals
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+CSUSB CS 460 lab on signals
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+CSUSB CS 460 lab on signals
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+CSUSB CS 460 lab on signals
+^COops! -- I got a signal 2
+bash-3.2$ 
+bash-3.2$ exit
+exit
+
+Script done on Sun Jan 22 22:30:34 2017

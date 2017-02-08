@@ -1,0 +1,9 @@
+Script started on Wed Jan 25 14:32:38 2017
+[?1034hbash-3.2$ c++ test_exec.cpp
+bash-3.2$ ./a.out
+Running ps with execl
+Done!
+bash-3.2$ exit
+exit
+
+Script done on Wed Jan 25 14:32:45 2017

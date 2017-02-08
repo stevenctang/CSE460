@@ -1,0 +1,16 @@
+Script started on Wed Jan 25 14:38:41 2017
+[?1034hbash-3.2$ c++ test_fork.cpp 
+bash-3.2$ ./a.out
+fork program starting
+This is the parent
+This is the child
+This is the child
+This is the parent
+This is the child
+This is the parent
+This is the child
+bash-3.2$ This is the child
+exit
+exit
+
+Script done on Wed Jan 25 14:38:54 2017

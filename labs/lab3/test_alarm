@@ -1,0 +1,11 @@
+Script started on Sun Jan 22 22:33:42 2017
+[?1034hbash-3.2$ c++ test_alarm.cpp [K
+bash-3.2$ ./a.out
+Alarm testing!
+Waiting for alarm to go off!
+Alarm has gone off 
+Done!
+bash-3.2$ exit
+exit
+
+Script done on Sun Jan 22 22:33:56 2017
