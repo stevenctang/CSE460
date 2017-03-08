@@ -1,0 +1,10 @@
+Script started on Tue Feb  7 17:49:46 2017
+[?1034hbash-3.2$ ipcs m[K-m
+IPC status from <running system> as of Tue Feb  7 17:49:52 PST 2017
+T     ID     KEY        MODE       OWNER    GROUP
+Shared Memory:
+
+bash-3.2$ exit
+exit
+
+Script done on Tue Feb  7 17:49:57 2017

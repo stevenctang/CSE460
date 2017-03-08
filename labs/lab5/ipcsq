@@ -1,0 +1,11 @@
+Script started on Tue Feb  7 17:50:14 2017
+[?1034hbash-3.2$ ipcs -[K-q
+IPC status from <running system> as of Tue Feb  7 17:50:16 PST 2017
+T     ID     KEY        MODE       OWNER    GROUP
+Message Queues:
+q  65536 0x000004d2 --rw-rw-rw- steventang    staff
+
+bash-3.2$ ei[Kxit
+exit
+
+Script done on Tue Feb  7 17:50:21 2017

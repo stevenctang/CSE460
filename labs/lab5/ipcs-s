@@ -1,0 +1,10 @@
+Script started on Tue Feb  7 17:48:35 2017
+[?1034hbash-3.2$ ipcs -s
+IPC status from <running system> as of Tue Feb  7 17:48:39 PST 2017
+T     ID     KEY        MODE       OWNER    GROUP
+Semaphores:
+
+bash-3.2$ exit
+exit
+
+Script done on Tue Feb  7 17:48:44 2017
